@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\klemon\\Software\\AdvancedCSharp\\ClubMembershipApplication\\ClubMembershipApplication\\ClubMembershipApplication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\klemon\\Software\\AdvancedCSharp\\ClubMembershipApplication\\ClubMembershipApplication\\ClubMembershipApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\klemon\\Software\\AdvancedCSharp\\ClubMembershipApplication\\ClubMembershipApplication\\ClubMembershipApplication.csproj",
+        "projectName": "ClubMembershipApplication",
+        "projectPath": "C:\\Users\\klemon\\Software\\AdvancedCSharp\\ClubMembershipApplication\\ClubMembershipApplication\\ClubMembershipApplication.csproj",
+        "packagesPath": "C:\\Users\\klemon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\klemon\\Software\\AdvancedCSharp\\ClubMembershipApplication\\ClubMembershipApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\klemon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\klemon\\Software\\AdvancedCSharp\\ClubMembershipApplication\\FieldValidatorAPI\\FieldValidatorAPI.csproj": {
+                "projectPath": "C:\\Users\\klemon\\Software\\AdvancedCSharp\\ClubMembershipApplication\\FieldValidatorAPI\\FieldValidatorAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\klemon\\Software\\AdvancedCSharp\\ClubMembershipApplication\\FieldValidatorAPI\\FieldValidatorAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\klemon\\Software\\AdvancedCSharp\\ClubMembershipApplication\\FieldValidatorAPI\\FieldValidatorAPI.csproj",
+        "projectName": "FieldValidatorAPI",
+        "projectPath": "C:\\Users\\klemon\\Software\\AdvancedCSharp\\ClubMembershipApplication\\FieldValidatorAPI\\FieldValidatorAPI.csproj",
+        "packagesPath": "C:\\Users\\klemon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\klemon\\Software\\AdvancedCSharp\\ClubMembershipApplication\\FieldValidatorAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\klemon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

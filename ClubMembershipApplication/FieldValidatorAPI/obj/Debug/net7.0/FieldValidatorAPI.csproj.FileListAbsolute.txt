@@ -1,0 +1,11 @@
+C:\Users\klemon\Software\AdvancedCSharp\ClubMembershipApplication\FieldValidatorAPI\bin\Debug\net7.0\FieldValidatorAPI.deps.json
+C:\Users\klemon\Software\AdvancedCSharp\ClubMembershipApplication\FieldValidatorAPI\bin\Debug\net7.0\FieldValidatorAPI.dll
+C:\Users\klemon\Software\AdvancedCSharp\ClubMembershipApplication\FieldValidatorAPI\bin\Debug\net7.0\FieldValidatorAPI.pdb
+C:\Users\klemon\Software\AdvancedCSharp\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\net7.0\FieldValidatorAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klemon\Software\AdvancedCSharp\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\net7.0\FieldValidatorAPI.AssemblyInfoInputs.cache
+C:\Users\klemon\Software\AdvancedCSharp\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\net7.0\FieldValidatorAPI.AssemblyInfo.cs
+C:\Users\klemon\Software\AdvancedCSharp\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\net7.0\FieldValidatorAPI.csproj.CoreCompileInputs.cache
+C:\Users\klemon\Software\AdvancedCSharp\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\net7.0\FieldValidatorAPI.dll
+C:\Users\klemon\Software\AdvancedCSharp\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\net7.0\refint\FieldValidatorAPI.dll
+C:\Users\klemon\Software\AdvancedCSharp\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\net7.0\FieldValidatorAPI.pdb
+C:\Users\klemon\Software\AdvancedCSharp\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\net7.0\ref\FieldValidatorAPI.dll

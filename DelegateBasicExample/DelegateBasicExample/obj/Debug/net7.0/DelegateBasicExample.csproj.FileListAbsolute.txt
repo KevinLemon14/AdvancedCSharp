@@ -1,0 +1,14 @@
+C:\Users\klemon\Software\AdvancedCSharp\DelegateBasicExample\DelegateBasicExample\bin\Debug\net7.0\DelegateBasicExample.exe
+C:\Users\klemon\Software\AdvancedCSharp\DelegateBasicExample\DelegateBasicExample\bin\Debug\net7.0\DelegateBasicExample.deps.json
+C:\Users\klemon\Software\AdvancedCSharp\DelegateBasicExample\DelegateBasicExample\bin\Debug\net7.0\DelegateBasicExample.runtimeconfig.json
+C:\Users\klemon\Software\AdvancedCSharp\DelegateBasicExample\DelegateBasicExample\bin\Debug\net7.0\DelegateBasicExample.dll
+C:\Users\klemon\Software\AdvancedCSharp\DelegateBasicExample\DelegateBasicExample\bin\Debug\net7.0\DelegateBasicExample.pdb
+C:\Users\klemon\Software\AdvancedCSharp\DelegateBasicExample\DelegateBasicExample\obj\Debug\net7.0\DelegateBasicExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klemon\Software\AdvancedCSharp\DelegateBasicExample\DelegateBasicExample\obj\Debug\net7.0\DelegateBasicExample.AssemblyInfoInputs.cache
+C:\Users\klemon\Software\AdvancedCSharp\DelegateBasicExample\DelegateBasicExample\obj\Debug\net7.0\DelegateBasicExample.AssemblyInfo.cs
+C:\Users\klemon\Software\AdvancedCSharp\DelegateBasicExample\DelegateBasicExample\obj\Debug\net7.0\DelegateBasicExample.csproj.CoreCompileInputs.cache
+C:\Users\klemon\Software\AdvancedCSharp\DelegateBasicExample\DelegateBasicExample\obj\Debug\net7.0\DelegateBasicExample.dll
+C:\Users\klemon\Software\AdvancedCSharp\DelegateBasicExample\DelegateBasicExample\obj\Debug\net7.0\refint\DelegateBasicExample.dll
+C:\Users\klemon\Software\AdvancedCSharp\DelegateBasicExample\DelegateBasicExample\obj\Debug\net7.0\DelegateBasicExample.pdb
+C:\Users\klemon\Software\AdvancedCSharp\DelegateBasicExample\DelegateBasicExample\obj\Debug\net7.0\DelegateBasicExample.genruntimeconfig.cache
+C:\Users\klemon\Software\AdvancedCSharp\DelegateBasicExample\DelegateBasicExample\obj\Debug\net7.0\ref\DelegateBasicExample.dll
