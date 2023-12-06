@@ -1,0 +1,32 @@
+﻿<Window
+    x:Class="ReservRoom.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:ReservRoom"
+    xmlns:views="clr-namespace:ReservRoom.Views"
+    xmlns:vms="clr-namespace:ReservRoom.ViewModels"
+    mc:Ignorable="d"
+    Title="ReserveRoom"
+    Height="450"
+    Width="800"
+    FontSize="16">
+    <Grid
+        Margin="20 10"
+        MaxWidth="600">
+        <Grid.Resources>
+            <DataTemplate
+                DataType="{x:Type vms:MakeReservationViewModel}">
+                <views:MakeReservationView />
+            </DataTemplate>
+            <DataTemplate
+                DataType="{x:Type vms:ReservationListingViewModel}">
+                <views:ReservationListingView />
+            </DataTemplate>
+        </Grid.Resources>
+
+        <ContentControl
+            Content="{Binding CurrentViewModel}" />
+    </Grid>
+</Window>
